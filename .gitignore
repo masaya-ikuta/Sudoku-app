@@ -1,0 +1,8 @@
+SudokuSolverApp/bin/
+SudokuSolverApp/Debug/
+SudokuSolverApp/Release
+SudokuSolverApp/obj/
+SudokuSolverApp/.vs/
+SudokuSolveLib/Debug
+SudokuSolveLib/Release
+SudokuSolveLib/x64
